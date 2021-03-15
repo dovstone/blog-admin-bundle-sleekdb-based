@@ -9,6 +9,6 @@ namespace DovStone\Bundle\BlogAdminBundleSleekDBBased;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class BlogAdminBundleSleekDBBased extends Bundle
+class DovStoneBlogAdminBundleSleekDBBased extends Bundle
 {
 }
